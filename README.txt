@@ -1,4 +1,4 @@
-The input filter provided by this module cleans up HTML input, especially that created by visual editors, by removing things such as empty paragraph tags, multiple line-breaks and non-breaking spaces, and other markup which create extra white space.
+Provides an input filter which cleans up HTML input—especially that created by visual editors—by removing things such as empty paragraph tags, multiple line-breaks, multiple non-breaking spaces, and other markup which creates unwanted white space.
 
 INSTALLATION
 ============
