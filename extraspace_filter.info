@@ -2,4 +2,3 @@ name = Extra Space Filter
 description = Filters empty HTML tags and extra non-breaking spaces.
 package = Input filters
 core = 7.x
-files[] = extraspace_filter.module
