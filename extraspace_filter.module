@@ -1,6 +1,4 @@
 <?php
-// $Id$
-
 /**
  * @file
  * Module that filters empty HTML tags and extra non-breaking spaces.
@@ -11,7 +9,7 @@
  */
 function extraspace_filter_filter_info() {
   $filters['extraspace_filter_filter'] = array(
-    'title' => t('Filter extra space'), 
+    'title' => t('Filter extra space'),
     'description' => t('Filters empty HTML tags and extra non-breaking spaces.'),
     'process callback' => 'extraspace_filter_filter_process',
   );
